@@ -12,9 +12,7 @@ export default function Projects() {
             Some of My Apps
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            I like building small little projects overtime whether its software based or a combination of both hardware and software, especially IOT projects.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
