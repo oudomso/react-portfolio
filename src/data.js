@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "Front End Game made with JS",
     description:
       "Quick fun game made with js and hosted on github",
-    image: "./quizgame.jpg",
+    image: "./crystalgame.png",
     link: "https://oudomso.github.io/crystal-game",
   },
 ];
