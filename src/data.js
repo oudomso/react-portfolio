@@ -24,29 +24,29 @@ export const projects = [
     link: "https://hw6-doxxx198.herokuapp.com/",
   },
   {
-    title: "Trivia Game",
-    subtitle: "Poke Quiz",
+    title: "Crystal Game",
+    subtitle: "Front End Game made with JS",
     description:
-      "JS timing practice",
-    image: "./quizgame.jpeg",
-    link: "https://oudomso.github.io/Trivia-Game/",
+      "Quick fun game made with js and hosted on github",
+    image: "./quizgame.jpg",
+    link: "https://oudomso.github.io/crystal-game",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Team player, strong work ethic and overall positive guy to be around with.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Dennis Rybkin",
     company: "Zoozle",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Lucas Miller ",
     image: "https://scontent.ffcm1-1.fna.fbcdn.net/v/t31.18172-8/30072746_2103199063054250_8065401874086557977_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=xXo4OI85AVMAX9HF7eR&_nc_ht=scontent.ffcm1-1.fna&oh=75e7c5688fe9b4370f0adc0dd478c963&oe=61C6D2E6",
     name: "Lucas Miller",
-    company: "Dooble.io",
+    company: "Raytheon Technologies",
   },
 ];
 
