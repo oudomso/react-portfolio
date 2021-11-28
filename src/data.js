@@ -37,7 +37,7 @@ export const testimonials = [
   {
     quote:
       "Team player, strong work ethic and overall positive guy to be around with.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    image: "./dennis.jpg",
     name: "Dennis Rybkin",
     company: "Zoozle",
   },
