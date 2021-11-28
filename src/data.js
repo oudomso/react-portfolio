@@ -56,5 +56,5 @@ export const skills = [
   "Basic Data Structure and Algorithm",
   "Embedded Programming ",
   "Circuit design and breadboard prototyping",
-  "Material UI",
+  "Python, Java, C/C++, Javascript, Verilog, Matlab",
 ];
