@@ -8,28 +8,28 @@ export const projects = [
     link: "https://share.streamlit.io/oudomso/stock-scrape/main/stockscrape.py",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "GFCI",
+    subtitle: "Circuit Lab",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A ground fault circuit interruptor looked at the current difference in the outlet and stop the connection whenever there's an abnormality.",
+    image: "./GFCI.gif",
+    link: "https://www.osha.gov/electrical/hazards/grounding/gfci",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Full stack with Express and Node",
+    subtitle: "Username: charlie    Password: tango",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Frontend and Backend from webpage from scratch hosted via heroku",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://hw6-doxxx198.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Trivia Game",
+    subtitle: "Poke Quiz",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "JS timing practice",
+    image: "./quizgame.jpeg",
+    link: "https://oudomso.github.io/Trivia-Game/",
   },
 ];
 
