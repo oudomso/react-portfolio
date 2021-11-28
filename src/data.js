@@ -44,7 +44,7 @@ export const testimonials = [
   {
     quote:
       "Lucas Miller ",
-    image: "https://scontent.ffcm1-1.fna.fbcdn.net/v/t31.18172-8/30072746_2103199063054250_8065401874086557977_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=xXo4OI85AVMAX9HF7eR&_nc_ht=scontent.ffcm1-1.fna&oh=75e7c5688fe9b4370f0adc0dd478c963&oe=61C6D2E6",
+    image: "./lucas2.jpg",
     name: "Lucas Miller",
     company: "Raytheon Technologies",
   },
