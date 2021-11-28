@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Username: charlie    Password: tango",
     description:
       "Frontend and Backend from webpage from scratch hosted via heroku",
-    image: "./project-3.gif",
+    image: "./express.png",
     link: "https://hw6-doxxx198.herokuapp.com/",
   },
   {
@@ -43,7 +43,7 @@ export const testimonials = [
   },
   {
     quote:
-      "Lucas Miller ",
+      "Working with Oudom on projects was always a pleasure. His technical proficiencies paired with his abilities to direct group focus and identify key tasks makes him a valuable member of any team.",
     image: "./lucas2.jpg",
     name: "Lucas Miller",
     company: "Raytheon Technologies",
