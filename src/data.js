@@ -39,7 +39,7 @@ export const testimonials = [
       "Team player, strong work ethic and overall positive guy to be around with.",
     image: "./dennis.jpg",
     name: "Dennis Rybkin",
-    company: "Zoozle",
+    company: "Hughes Network Systems",
   },
   {
     quote:
